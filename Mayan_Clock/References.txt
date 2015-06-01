@@ -1,0 +1,10 @@
+Sound Sources (Creative Commons):
+
+https://www.freesound.org/people/kyles/sounds/51817/
+ - thud bassy slam.aiff (moveSound.wav)
+
+https://www.freesound.org/people/tigersound/sounds/9077/
+ - tigersound alarm.aif (alarm.wav)
+
+https://www.freesound.org/people/Timbre/sounds/169859/
+ - low pulsating hum.flac (hum.wav)
