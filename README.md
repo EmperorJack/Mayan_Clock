@@ -9,7 +9,7 @@ For a creative coding project I had to create an interactive 'awkward' clock. I 
 - Requires Processing: https://processing.org/
 - Open the sketch via the "Mayan_Clock.pde".
 - Run the sketch.
-- 
+
 ~Usage~
 - Drag the two outer rings to change the target alarm time.
 - Press the H key to view the documentation.
