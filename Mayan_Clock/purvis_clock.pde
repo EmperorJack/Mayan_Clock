@@ -1,6 +1,6 @@
 /*
  * MDDN 242 Project 1: Awkward Clocks
- * Jack Purvis (300311934)
+ * Jack Purvis
  * Mystery Mayan Clock
  */
 
